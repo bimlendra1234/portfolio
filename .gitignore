@@ -1,0 +1,19 @@
+# Ignore build output
+.next/
+
+# Node modules
+node_modules/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System/IDE files
+.DS_Store
+.vscode/
